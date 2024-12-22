@@ -5699,9 +5699,7 @@ Us.prototype._withCommit = function (e) {
 };
 Object.defineProperties(Us.prototype, P6);
 const XY = FZ(
-    '<div id="app"><div class="w-full fixed h-16 flex items-center px-3 md:px-10 justify-between my-5 mx-0" style="z-index:1000;"><a href="#" class="flex text-xl items-center cursor-pointer"><img class="w-44 mx-5 md:mx-10" src="' +
-      SJ +
-      '"></a><div class="flex"><div class="text-white consola font-bold hidden md:block mt-4"><a href="#aipad" class="mx-5 lg:mx-10">About</a><a href="#marketplace" class="mx-5 lg:mx-10">Marketplace</a><a href="#llm" class="mx-5 lg:mx-10">LLM</a></div><a href="https://komput-ai.vercel.app/" class="mx-5 lg:mx-10 rounded-xl text-lime-50 p-3 bg-black px-7 cursor-pointer">Dapp</a></div></div></div>',
+    '<div id="app"><div class="w-full fixed h-16 flex items-center px-3 md:px-10 justify-between my-5 mx-0" style="z-index:1000;"><a href="#" class="flex text-xl items-center cursor-pointer"><img class="w-44 mx-5 md:mx-10" src="logo-white.png"></a><div class="flex"><div class="text-white consola font-bold hidden md:block mt-4"><a href="#aipad" class="mx-5 lg:mx-10">About</a><a href="#marketplace" class="mx-5 lg:mx-10">Marketplace</a><a href="#llm" class="mx-5 lg:mx-10">LLM</a></div><a href="https://komput-ai.vercel.app/" class="mx-5 lg:mx-10 rounded-xl text-lime-50 p-3 bg-black px-7 cursor-pointer">Dapp</a></div></div></div>',
     1
   ),
   eQ = Bg(
@@ -5713,7 +5711,7 @@ const XY = FZ(
     [
       Bg("div", { class: "text-sm" }, [
         R4("© 2024 "),
-        Bg("b", null, "KOMPUTAI"),
+        Bg("b", null, "Compower AI"),
         R4(". All rights reserved."),
       ]),
     ],

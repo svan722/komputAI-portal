@@ -1113,7 +1113,7 @@ const gs = { class: "flex justify-center relative w-full" },
   bs = B(
     '<div class="w-full md:w-1/2 p-10"><img class="rounded-md" src="' +
       ye +
-      '"></div><div class="w-full md:w-1/2 text-start p-10"><div class="text-2xl md:text-4xl HKModular text-white mb-5"> COMMUNITY POWERING AI </div><div class="text-gray-200 consola text-sm"> Komputai is an early adopter of the DEPIN initiative, driving the AI decentralization.<br><br> Users can contribute as nodes within our network or as owners of Komputai&#39;s tokenized GPU shares. Our AIpad platform empowers projects with distributed computing power, fostering collaboration. Whether supporting external initiatives or training our Komputai Language Model (LLM), users play a main role in advancing AI innovation. <br><br> We bring AI computation closer to you. </div></div>',
+      '"></div><div class="w-full md:w-1/2 text-start p-10"><div class="text-2xl md:text-4xl HKModular text-white mb-5"> COMMUNITY POWERING AI </div><div class="text-gray-200 consola text-sm"> Compower AI is an early adopter of the DEPIN initiative, driving the AI decentralization.<br><br> Users can contribute as nodes within our network or as owners of Compower AI&#39;s tokenized GPU shares. Our AIpad platform empowers projects with distributed computing power, fostering collaboration. Whether supporting external initiatives or training our Compower AI Language Model (LLM), users play a main role in advancing AI innovation. <br><br> We bring AI computation closer to you. </div></div>',
     2
   ),
   ys = [bs],
@@ -1206,7 +1206,7 @@ const gs = { class: "flex justify-center relative w-full" },
   Ds = a(
     "div",
     { class: "text-sm mt-5" },
-    " Komputai's GPU tokenization revolutionizes access to computational power, decentralizing ownership and democratizing resources for AI initiatives, promoting inclusivity and decentralization. ",
+    " Compower AI's GPU tokenization revolutionizes access to computational power, decentralizing ownership and democratizing resources for AI initiatives, promoting inclusivity and decentralization. ",
     -1
   ),
   Ys = [qs, Ds],
@@ -1214,7 +1214,7 @@ const gs = { class: "flex justify-center relative w-full" },
   Xs = a(
     "div",
     { class: "text-sm mt-5" },
-    " In Komputai ecosystem, users with compatible hardware can join as nodes, contributing computing power to AI tasks like training the Komputai Language Model (LLM), supporting projects, or doing tasks for clients. By being nodes, users earn rewards in KAI or project-specific tokens, allowing them to contribute to AI progress while earning rewards for their resources. ",
+    " In Compower AI ecosystem, users with compatible hardware can join as nodes, contributing computing power to AI tasks like training the Compower AI Language Model (LLM), supporting projects, or doing tasks for clients. By being nodes, users earn rewards in KAI or project-specific tokens, allowing them to contribute to AI progress while earning rewards for their resources. ",
     -1
   ),
   Js = [Vs, Xs],
@@ -1241,7 +1241,7 @@ const gs = { class: "flex justify-center relative w-full" },
   on = a(
     "div",
     { class: "text-sm consola ml-8 text-gray-200" },
-    " Komputai's team harnesses the power of LLM to develop practical applications and tools tailored to the community's needs, including chatbots, virtual assistants, language translation services, content generation tools, and sentiment analysis platforms. ",
+    " Compower AI's team harnesses the power of LLM to develop practical applications and tools tailored to the community's needs, including chatbots, virtual assistants, language translation services, content generation tools, and sentiment analysis platforms. ",
     -1
   ),
   rn = [nn, on],
@@ -1264,7 +1264,7 @@ const gs = { class: "flex justify-center relative w-full" },
   cn = a(
     "div",
     { class: "text-sm consola ml-8 text-gray-200" },
-    " Beyond internal development, the Komputai LLM serves as a foundation for innovation and collaboration within the broader AI community. Teams have the opportunity to integrate LLM's powerful language processing capabilities into their own applications and initiatives, stimulating innovation without the need to develop their own language models from scratch. ",
+    " Beyond internal development, the Compower AI LLM serves as a foundation for innovation and collaboration within the broader AI community. Teams have the opportunity to integrate LLM's powerful language processing capabilities into their own applications and initiatives, stimulating innovation without the need to develop their own language models from scratch. ",
     -1
   ),
   dn = [an, cn],
@@ -1287,7 +1287,7 @@ const gs = { class: "flex justify-center relative w-full" },
   hn = a(
     "div",
     { class: "text-sm consola ml-8 text-gray-200" },
-    " Komputai LLM operates within an open and uncensored ecosystem, benefiting from the collective computational power of a distributed network of nodes. This decentralized approach ensures accessibility and resilience, fostering a free exchange of ideas without limitations imposed by centralized control or censorship. ",
+    " Compower AI LLM operates within an open and uncensored ecosystem, benefiting from the collective computational power of a distributed network of nodes. This decentralized approach ensures accessibility and resilience, fostering a free exchange of ideas without limitations imposed by centralized control or censorship. ",
     -1
   ),
   pn = [fn, hn],
@@ -1310,7 +1310,7 @@ const gs = { class: "flex justify-center relative w-full" },
   _n = a(
     "div",
     { class: "text-sm consola ml-8 text-gray-200" },
-    " Komputai’s team actively solicits feedback from the community regarding LLM's performance, usability, and features. This feedback loop drives iterative refinement and enhancement of the model, ensuring it remains at the forefront of NLP innovation and meets the evolving needs of users. ",
+    " Compower AI’s team actively solicits feedback from the community regarding LLM's performance, usability, and features. This feedback loop drives iterative refinement and enhancement of the model, ensuring it remains at the forefront of NLP innovation and meets the evolving needs of users. ",
     -1
   ),
   xn = [vn, _n],
@@ -1320,14 +1320,14 @@ const gs = { class: "flex justify-center relative w-full" },
   bn = B(
     '<div class="rounded-xl card h-full"><img class="rounded-t-xl" src="' +
       Ee +
-      '"><div class="m-5"><div class="text-3xl uppercase font-bold">$KAI Rewards</div><div class="text-sm mt-5"> Node operators earn KAI tokens by contributing computing power to train the Komputai Language Model (LLM), encouraging their involvement in advancing AI capabilities. </div></div></div>',
+      '"><div class="m-5"><div class="text-3xl uppercase font-bold">$CPA Rewards</div><div class="text-sm mt-5"> Node operators earn KAI tokens by contributing computing power to train the Compower AI Language Model (LLM), encouraging their involvement in advancing AI capabilities. </div></div></div>',
     1
   ),
   yn = [bn],
   On = B(
     '<div class="rounded-xl card h-full"><img class="rounded-t-xl" style="z-index:-1 !important;" src="' +
       je +
-      '"><div class="m-5"><div class="text-3xl uppercase font-bold">Projects Rewards</div><div class="text-sm mt-5"> Operators supporting Komputai-hosted projects receive project-specific tokens alongside KAI tokens as rewards, incentivizing contributions to various initiatives within the ecosystem and promoting collaboration and innovation. </div></div></div>',
+      '"><div class="m-5"><div class="text-3xl uppercase font-bold">Projects Rewards</div><div class="text-sm mt-5"> Operators supporting Compower AI-hosted projects receive project-specific tokens alongside KAI tokens as rewards, incentivizing contributions to various initiatives within the ecosystem and promoting collaboration and innovation. </div></div></div>',
     1
   ),
   Mn = [On],
@@ -1340,20 +1340,20 @@ const gs = { class: "flex justify-center relative w-full" },
   ),
   En = [kn],
   jn = B(
-    '<div class="rounded-xl card flex flex-wrap items-center"><div class="text-white md:w-2/3 p-5"><div class="text-3xl uppercase font-bold">Contribute</div><div class="text-sm mt-5 consola"> Contribute to the GPU/TPU network or train the KOMPUTAI LLM and unlock reward based on your power contribution. </div></div><img class="rounded-xl rounded-t-none md:rounded-tr-xl md:rounded-l-none md:w-1/3 w-full h-40 md:h-64" style="object-fit:cover;" src="' +
+    '<div class="rounded-xl card flex flex-wrap items-center"><div class="text-white md:w-2/3 p-5"><div class="text-3xl uppercase font-bold">Contribute</div><div class="text-sm mt-5 consola"> Contribute to the GPU/TPU network or train the Compower AI LLM and unlock reward based on your power contribution. </div></div><img class="rounded-xl rounded-t-none md:rounded-tr-xl md:rounded-l-none md:w-1/3 w-full h-40 md:h-64" style="object-fit:cover;" src="' +
       Pe +
       '"></div>',
     1
   ),
   Pn = [jn],
   Rn = B(
-    '<div class="flex flex-wrap md:w-1/2 mt-7"><div class="md:mr-4"><div class="rounded-xl card flex flex-wrap items-center justify-center"><div class="text-white md:w-2/3 p-5"><div class="text-3xl uppercase font-bold">Build</div><div class="text-sm mt-5 consola"> Build on top of KOMPUTAI network and empower your project’s decentralization. </div></div><img class="rounded-xl rounded-t-none md:rounded-tr-xl md:rounded-l-none md:w-1/3 w-full h-40" style="object-fit:cover;" src="' +
+    '<div class="flex flex-wrap md:w-1/2 mt-7"><div class="md:mr-4"><div class="rounded-xl card flex flex-wrap items-center justify-center"><div class="text-white md:w-2/3 p-5"><div class="text-3xl uppercase font-bold">Build</div><div class="text-sm mt-5 consola"> Build on top of Compower AI network and empower your project’s decentralization. </div></div><img class="rounded-xl rounded-t-none md:rounded-tr-xl md:rounded-l-none md:w-1/3 w-full h-40" style="object-fit:cover;" src="' +
       Re +
       '"></div></div></div>',
     1
   ),
   Sn = B(
-    '<div class="md:ml-4"><div class="rounded-xl card flex flex-wrap items-center justify-center"><div class="text-white md:w-2/3 p-5"><div class="text-3xl uppercase font-bold">Use</div><div class="text-sm mt-5 consola"> Use the the KOMPUTAI LLM to build your own agent powered by the community GPU/TPU power </div></div><img class="rounded-xl rounded-t-none md:rounded-tr-xl md:rounded-l-none md:w-1/3 w-full h-40" style="object-fit:cover;" src="' +
+    '<div class="md:ml-4"><div class="rounded-xl card flex flex-wrap items-center justify-center"><div class="text-white md:w-2/3 p-5"><div class="text-3xl uppercase font-bold">Use</div><div class="text-sm mt-5 consola"> Use the the Compower AI LLM to build your own agent powered by the community GPU/TPU power </div></div><img class="rounded-xl rounded-t-none md:rounded-tr-xl md:rounded-l-none md:w-1/3 w-full h-40" style="object-fit:cover;" src="' +
       Se +
       '"></div></div>',
     1
@@ -1550,7 +1550,7 @@ const gs = { class: "flex justify-center relative w-full" },
                       ]),
                       id: "section_6",
                     },
-                    [V(" KOMPUTAI LLM ")],
+                    [V(" Compower AI LLM ")],
                     2
                   )),
                   [[d(x), s]]
@@ -1568,7 +1568,7 @@ const gs = { class: "flex justify-center relative w-full" },
                     },
                     [
                       V(
-                        " Komputai LLM represents a cutting-edge AI model designed to revolutionize natural language processing, equipped with advanced capabilities in understanding, interpreting, and generating human language. "
+                        " Compower AI LLM represents a cutting-edge AI model designed to revolutionize natural language processing, equipped with advanced capabilities in understanding, interpreting, and generating human language. "
                       ),
                     ],
                     2
